@@ -16,3 +16,15 @@ Requisitos:
 Layout -> https://startbootstrap.com/previews/sb-admin
 
 Base de Dados:
+
+  Tabela Equipamentos
+  
+  Tabela Detalhes_Equipamentos ?
+  
+  Tabela Ferramentas
+  
+  Tabela Detalhes_Ferramentas ?
+  
+  Tabela Utilizadores
+  
+  Tabela Requisitar_Utensilios_Utilizadores
