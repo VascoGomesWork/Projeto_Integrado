@@ -1,0 +1,13 @@
+flask
+flask_sqlalchemy
+flask_login
+flask_bcrypt
+flask_wtf
+wtforms
+email_validator
+python-dotenv
+flask-session
+redis
+flask-cors
+flask-marshmallow
+marshmallow-sqlalchemy
